@@ -1,0 +1,6 @@
+5000AC最新对应监控版本 5000AC_00028_20240731.bin
+http://cdn.shuoxd.com/redx/update/device/New/5000AC/MCU/5000AC_00028_20240731.bin
+5000HY最新对应监控版本 rtthread.5000HY_20028.bin
+http://cdn.shuoxd.com/redx/update/device/New/5000HY/MCU/rtthread.5000HY_20028.bin
+7000HY最新对应监控版本 rtthread.7000HY_10028.bin
+http://cdn.shuoxd.com/redx/update/device/New/7000HY/MCU/rtthread.7000HY_10028.bin
